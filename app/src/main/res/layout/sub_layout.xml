@@ -1,0 +1,12 @@
+
+<TextView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="Im the inflator"
+       android:background="#FF0000"
+       android:textSize="26sp"
+       android:id="@+id/textView"
+
+
+    />
